@@ -1,7 +1,5 @@
 name: Tag & Release subscriptions-core to GitHub
 
-name: Main
-
 on:
   push:
     tags:
